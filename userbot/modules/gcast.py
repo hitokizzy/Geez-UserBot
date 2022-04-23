@@ -23,6 +23,7 @@ GCAST_BLACKLIST = [
     -1001267233272,  # POCONG SEREM
     -1001386557465,  # Kitarosupport
     -1001692751821,  # ramsupportt
+    -1001493364300,  # izzy nitip
 ]
 
 # BLACKLIST IN GROUP SUPPORT
